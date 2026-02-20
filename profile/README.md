@@ -1,6 +1,6 @@
 # nicc
 
-hobby dev for 6+ years. i work with smaller companies and maintain a [RAM fork](https://github.com/niccdevs/Roblox-Account-Manager). looking for hire — comms open.
+hobby dev for 6+ years. i work with smaller companies and maintain a [RAM fork](https://github.com/niccsprojects/Roblox-Account-Manager). looking for hire — comms open.
 
 ---
 
